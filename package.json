@@ -1,0 +1,19 @@
+{
+  "name": "nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.2.6",
+    "luxon": "^1.27.0",
+    "next": "10.x",
+    "postcss": "^8.3.1",
+    "react": "17.x",
+    "react-dom": "17.x",
+    "tailwindcss": "^2.1.4"
+  }
+}
